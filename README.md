@@ -8,30 +8,38 @@ No longer maintained.
 
 # Screenshots
 
-![Home](/screenshots/home.jpg?raw=true)
-![Menu](/screenshots/menu.jpg?raw=true)
-![Login](/screenshots/login.jpg?raw=true)
-![Signup](/screenshots/singup.jpg?raw=true)
-![Cart](/screenshots/cart.jpg?raw=true)
-![Bottom](/screenshots/bottom.jpg?raw=true)
+<p float="left">
+  <img src="/screenshots/home.png?raw=true" width="300" />
+  <img src="/screenshots/menu.png?raw=true" width="300" />
+  <img src="/screenshots/cart.png?raw=true" width="300" />
+  <img src="/screenshots/bottom.png?raw=true" width="300" />
+  <img src="/screenshots/signup.png?raw=true" width="300" />
+</p>
 
 # Setup
+
 Requirement:
+
 `node` and `npm` / `yarn`
 
 `.env`:
+
 `VITE_APP_API`: Mossos-Express back-end API url
 
 Installation:
+
 `npm i`
 
 Run development server:
+
 `npm run dev`
 
 Visit app:
+
 `http://localhost:3000`
 
 Build for production:
+
 `npm run build`
 
 # Reflection
