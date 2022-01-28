@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /botz/
+Allow: /images/
+Disallow: /
+
+User-agent: Twitterbot
+Allow: /$
+Allow: /images/
+Allow: /botz/
+Disallow: /
+
+User-agent: Googlebot
+Allow: /$
+Allow: /images/
+Allow: /botz/
+Disallow: /
+
+User-agent: AdsBot-Google
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
