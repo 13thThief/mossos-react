@@ -14,6 +14,10 @@ No longer maintained.
   <img src="/screenshots/cart.png?raw=true" width="300" />
   <img src="/screenshots/bottom.png?raw=true" width="300" />
   <img src="/screenshots/signup.png?raw=true" width="300" />
+  <img src="/screenshots/order_placed.jpeg?raw=true" width="300" />
+  <img src="/screenshots/order_list.jpeg?raw=true" width="300" />
+  <img src="/screenshots/order_confirmed.jpeg?raw=true" width="300" />
+  <img src="/screenshots/order_cancelled.jpeg?raw=true" width="300" />
 </p>
 
 # Setup
